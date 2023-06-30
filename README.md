@@ -1,4 +1,4 @@
-\Python Flask API
+Python Flask API
 
 simple python flask API using SQLite and marshmallow
 
