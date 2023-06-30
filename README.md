@@ -10,7 +10,7 @@ GET
 
 /product get all products
 
-/product/<id> get product by id
+/product/:id get product by id
 
 POST
 
@@ -18,8 +18,8 @@ POST
 
 PUT
 
-/product/<id> updates existing product (name, description, price, quantity JSON object required)
+/product/:id updates existing product (name, description, price, quantity JSON object required)
 
 DELETE
 
-/product/<id> delete product by id
+/product/:id delete product by id
